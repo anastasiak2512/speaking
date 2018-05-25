@@ -1,4 +1,4 @@
-#Tools from the C++ eco-system to save a leg
+# Tools from the C++ eco-system to save a leg
 
 C++ gives you enough rope to shoot your leg off. Readable (and thus easy to maintain, easy to support) and error-free code in C++ is often hard to achieve. And while modern C++ standards bring lots of fantastic opportunities and improvements to the language, sometimes they make the task of writing high quality code even harder. Or can’t we just cook them right? Can the tools help?
 
