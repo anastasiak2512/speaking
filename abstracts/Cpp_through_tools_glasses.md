@@ -1,4 +1,4 @@
-#A look at C++ through the glasses of a language tool 
+# A look at C++ through the glasses of a language tool 
 
 With its history going back to the early days of programming, rich heritage, tons of legacy code mixed with modern language features and patterns, quickly evolving language standards, and a variety of tools in the environment, C++ can be tricky and easily enable hacks and inaccurate solutions if you don’t cook it right.
 
