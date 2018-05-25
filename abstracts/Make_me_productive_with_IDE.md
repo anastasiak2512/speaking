@@ -1,4 +1,4 @@
-#Can you make me more productive with a C++ IDE?
+# Can you make me more productive with a C++ IDE?
 
 Writing code at the speed of thought and having the IDE take care of all mundane development tasks – that’s what productivity means for us at JetBrains. But is it even possible for a tricky language like C++? In this talk we’ll explore CLion, a cross-platform IDE for C and C++ development.
 
