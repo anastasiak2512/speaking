@@ -1,4 +1,4 @@
-#Debug C++ Without Running
+# Debug C++ Without Running
 
 Macros, templates, compile-time evaluation and code generation, reflection and metaclasses – C++ tends to hide the final code passed to the compiler under the tons of various names and aliases. Add here the preprocessor that shadows the actual running curve of your program with dozens of alternatives mixed in a non-trivial way. While this allows to avoid boilerplate code and reduce copy-paste and other errors, such an approach demands better tooling support to make the debugging process easier.
 
