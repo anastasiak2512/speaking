@@ -5,7 +5,7 @@ __Note__ same topic might be presented differently when given several times at v
 * Debug C++ Without Running
     * ACCU 2018, April 2018 - [video](https://www.youtube.com/watch?v=GkedFz5XF-o)
     * C++ Russia, April 2018
-    * C++Now, May 2018
+    * C++Now, May 2018 - [video](https://www.youtube.com/watch?v=8-tmVEong2k)
     * ++It, June 2018
 * Tools from the C++ eco-system to save a leg
     * CppCon 2017, September 2017 - [video](https://www.youtube.com/watch?v=30r_SsOjg2E)
