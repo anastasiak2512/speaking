@@ -3,7 +3,7 @@
 __Note__ same topic might be presented differently when given several times at various conferences
 
 * 2019
-    * C++ on Sea, February 2019, UK: Debug C++ Without Running
+    * C++ on Sea, February 2019, UK - [Debug C++ Without Running](https://www.youtube.com/watch?v=ByG6nIm6U24)
     * ACCU 2019, April 2019, UK: C++ ecosystem: For better, for worse  
 * 2018
     * ADC, November 2018, UK - [Debug C++ Without Running](https://www.youtube.com/watch?v=u19HWVNic0s)
