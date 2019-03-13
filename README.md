@@ -3,17 +3,23 @@
 __Note__ same topic might be presented differently when given several times at various conferences
 
 * 2019
-    * Core C++, May, Israel: C++ ecosystem: For better, for worse
+    * JetBrains Night Tel Aviv, May, Israel: [accouncement](https://info.jetbrains.com/jetbrains-night-tel-aviv-2019.html)
+      * Debug C++ Without Running
+      * Can you make me productive with a C++ IDE?
+    * Haifa:C++, May, Israel: Debug C++ Without Running
+    * Core C++, May, Israel: C++ ecosystem: For better, for worse [announcement](https://corecpp.org/schedule/#session-29)
     * ACCU 2019, April 2019, UK: C++ ecosystem: For better, for worse
     * C++ on Sea, February 2019, UK - [Debug C++ Without Running](https://www.youtube.com/watch?v=ByG6nIm6U24)  
 * 2018
     * ADC, November 2018, UK - [Debug C++ Without Running](https://www.youtube.com/watch?v=u19HWVNic0s)
     * C++ CoreHard, November 2018, Belarus - Debug C++ Without Running
-    * CppCon, September 2018, US - [Debug C++ Without Running](https://www.youtube.com/watch?v=eGWM_dI5egQ)
-    * CppCon, September 2018, US - [Talk to me! The art of reporting a bug (and handling the feedback) (lightning challenge)](https://www.youtube.com/watch?v=V1nc9riqksY)
+    * CppCon, September 2018, US 
+      * [Debug C++ Without Running](https://www.youtube.com/watch?v=eGWM_dI5egQ)
+      * [Talk to me! The art of reporting a bug (and handling the feedback) (lightning challenge)](https://www.youtube.com/watch?v=V1nc9riqksY)
     * ++It, June 2018, Italy - [Debug C++ Without Running](https://www.youtube.com/watch?v=8Vx_Ah9NtwE) 
-    * C++Now, May 2018, US - [Debug C++ Without Running](https://www.youtube.com/watch?v=8-tmVEong2k)
-    * C++Now, May 2018, US - [Talk to me! The art of reporting a bug (and handling the feedback) (lightning)](https://www.youtube.com/watch?v=0R-WJ3-2W2M)
+    * C++Now, May 2018, US 
+      * [Debug C++ Without Running](https://www.youtube.com/watch?v=8-tmVEong2k)
+      * [Talk to me! The art of reporting a bug (and handling the feedback) (lightning)](https://www.youtube.com/watch?v=0R-WJ3-2W2M)
     * C++ Russia, April 2018, RU - [Debug C++ Without Running (in Russian)](https://www.youtube.com/watch?v=e51Fr42EV9c)
     * ACCU 2018, April 2018 - [Debug C++ Without Running (very first version)](https://www.youtube.com/watch?v=GkedFz5XF-o)
     * C++ UG Bay Area, March 2018, US - New standards to the rescue: the view through an IDE’s glasses (updated version)
