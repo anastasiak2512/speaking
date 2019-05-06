@@ -8,7 +8,7 @@ __Note__ same topic might be presented differently when given several times at v
       * Can you make me productive with a C++ IDE?
     * Haifa:C++, May, Israel: Debug C++ Without Running
     * Core C++, May, Israel: C++ ecosystem: For better, for worse [announcement](https://corecpp.org/schedule/#session-29)
-    * ACCU 2019, April 2019, UK: C++ ecosystem: For better, for worse
+    * ACCU 2019, April 2019, UK: [C++ ecosystem: For better, for worse](https://www.youtube.com/watch?v=43E5iYzrQn4)
     * C++ on Sea, February 2019, UK - [Debug C++ Without Running](https://www.youtube.com/watch?v=ByG6nIm6U24)  
 * 2018
     * ADC, November 2018, UK - [Debug C++ Without Running](https://www.youtube.com/watch?v=u19HWVNic0s)
