@@ -3,11 +3,11 @@
 __Note__ same topic might be presented differently when given several times at various conferences
 
 * 2019
-    * JetBrains Night Tel Aviv, May, Israel: [accouncement](https://info.jetbrains.com/jetbrains-night-tel-aviv-2019.html)
-      * Debug C++ Without Running
-      * Can you make me productive with a C++ IDE?
+    * JetBrains Night Tel Aviv, May, Israel
+      * [Debug C++ Without Running](https://www.youtube.com/watch?v=YGUnSAaK-e4)
+      * [Can you make me productive with a C++ IDE?](https://www.youtube.com/watch?v=Bt0sZNhXW7k)
     * Haifa:C++, May, Israel: Debug C++ Without Running
-    * Core C++, May, Israel: C++ ecosystem: For better, for worse [announcement](https://corecpp.org/schedule/#session-29)
+    * Core C++, May, Israel: [C++ ecosystem: For better, for worse](https://www.youtube.com/watch?v=-RvkzoOPYkA)
     * ACCU 2019, April 2019, UK: [C++ ecosystem: For better, for worse](https://www.youtube.com/watch?v=43E5iYzrQn4)
     * C++ on Sea, February 2019, UK - [Debug C++ Without Running](https://www.youtube.com/watch?v=ByG6nIm6U24)  
 * 2018
