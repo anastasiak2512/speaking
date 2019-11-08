@@ -1,0 +1,13 @@
+# C++ ecosystem: the renaissance edition
+When legacy code is mixed with modern language features and patterns, when the rich heritage of C++ and its compatibility restrictions co-exist with the adoption of best practices from other languages and technologies, some of us C++ developers become lost and need to follow and stick to a more conservative path. Recent independent research studies show that developers are still staying with C++11, slowly adopting any new standards. Will C++20 change that?
+
+From the other side, many developers tend to avoid using unit testing frameworks and code analysis tools, are barred from throwing exceptions, and often still build packages manually. Alongside the areas where strict limitations are imposed on the subset of the language used, there are others, like game development, that find workarounds to emulate language features not yet accepted to the language standard. What are the real reasons for this state of affairs, what biases might be at play, and what are some of the improvements planned?
+
+In this talk, we will overview the C++ ecosystem based on several independently conducted research studies (the most recent will be held at the beginning of 2020), identify the common aligning trends across all the sources, and analyze the reasoning behind them. We’ll also decompose the C++ development into top areas and will analyze C++ usage projected on them.
+
+# Outline / comments
+
+I did a similar talk at ACCU 2019 (https://www.youtube.com/watch?v=43E5iYzrQn4) and Core C++ 2019 (https://www.youtube.com/watch?v=-RvkzoOPYkA). However, this edition will have major differences:
+1. First of all, C++20 is now finalized and is considered to be (by some C++ developers) as revolutionary as C++11. This definitely affects the ecosystem, the tooling, the way we write C++ code and the approaches we consider to be good practice. How modules and concepts will change it? Are there still some major parts missing for the C++ top usage areas (yes, reflection)?
+2. Second, based on the feedback on the first edition of this talk, we’ve introduced changes into the JetBrains Developers Ecosystem survey, which we plan to launch in Jan 2020, thus by the time of the conference I should have new data, covering C++20 and resolving the discussed inconsistencies. If C++ Foundation survey for 2020 runs before the conference, I’ll be able to get it’s updated data as well.
+3. Finally, previously I was not able to focus deeply on the unit testing, package management, code analysis, and guidelines used by the developers. This time I plan to reorganize the talk to get enough time for this really diverse and important part of the ecosystem.
