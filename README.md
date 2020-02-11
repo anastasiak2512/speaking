@@ -2,6 +2,10 @@
 
 __Note__ same topic might be presented differently when given several times at various conferences
 
+* 2020
+    * C++ Russia, April, Russia
+    * C++ on Sea, June, UK: C++ ecosystem: the renaissance edition
+    * NDC TechTown, September, Norway
 * 2019
     * JetBrains Night Tel Aviv, May, Israel
       * [Debug C++ Without Running](https://www.youtube.com/watch?v=YGUnSAaK-e4)
