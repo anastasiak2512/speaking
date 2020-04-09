@@ -3,8 +3,8 @@
 __Note__ same topic might be presented differently when given several times at various conferences
 
 * 2020
-    * C++ Russia, April, Russia
-    * C++ on Sea, June, UK: C++ ecosystem: the renaissance edition
+    * C++ Russia, April, Russia - postponed due to COVID-19
+    * C++ on Sea, June, UK: C++ ecosystem: the renaissance edition - postponed due to COVID-19
     * NDC TechTown, September, Norway
 * 2019
     * JetBrains Night Tel Aviv, May, Israel
