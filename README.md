@@ -3,8 +3,9 @@
 __Note__ same topic might be presented differently when given several times at various conferences
 
 * 2020
+    * NDC Tech Town Online, September: C++ ecosystem: the renaissance edition
     * NDC Tech Town Online, September: Workshop: C++ ecosystem and Modern C++ tooling
-    * C++ on Sea Online, July: [C++ ecosystem: the renaissance edition](https://www.youtube.com/watch?v=5NuEX6cUpFI) (in English)
+    * C++ on Sea Online, July: [C++ ecosystem: the renaissance edition](https://www.youtube.com/watch?v=5NuEX6cUpFI)
     * C++ Russia Online, June: C++ ecosystem: the renaissance edition (in Russian)
 * 2019
     * JetBrains Night Tel Aviv, May, Israel
