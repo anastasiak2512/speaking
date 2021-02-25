@@ -2,6 +2,8 @@
 
 __Note__ same topic might be presented differently when given several times at various conferences
 
+* 2021
+    * C++ Siberia Online, February: Code Analysis++ (in Russian)
 * 2020
     * Talents in Games Online, December: A C++ Ride Through the Gamedev Universe
     * NDC Tech Town Online, September: [C++ ecosystem: the renaissance edition](https://www.youtube.com/watch?v=5G3EtDwW4Xs)
