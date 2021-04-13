@@ -3,6 +3,7 @@
 __Note__ same topic might be presented differently when given several times at various conferences
 
 * 2021
+    * C++Now Online 2021, May: Code Analysis++ (extended version, in English)
     * C++ Siberia Online, February: Code Analysis++ (in Russian)
 * 2020
     * Talents in Games Online, December: A C++ Ride Through the Gamedev Universe
