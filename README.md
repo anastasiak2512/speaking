@@ -3,8 +3,9 @@
 __Note__ same topic might be presented differently when given several times at various conferences
 
 * 2021
-    * C++Now Online 2021, May: Code Analysis++ (extended version, in English)
-    * C++ Siberia Online, February: Code Analysis++ (in Russian)
+    * C++Now Online 2021, May: Surveying the community – what could possibly go wrong (Lightning talk, EN)
+    * C++Now Online 2021, May: Code Analysis++ (extended version, EN)
+    * C++ Siberia Online, February: Code Analysis++ (RU)
 * 2020
     * Talents in Games Online, December: A C++ Ride Through the Gamedev Universe
     * NDC Tech Town Online, September: [C++ ecosystem: the renaissance edition](https://www.youtube.com/watch?v=5G3EtDwW4Xs)
