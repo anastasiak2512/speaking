@@ -2,8 +2,10 @@
 
 __Note__ same topic might be presented differently when given several times at various conferences
 
+* 2022
+    * Highload++, March: Code Analysis++ (updated version, RU)
 * 2021
-    * CppCon 2021, October: Code Analysis++
+    * CppCon 2021, October: [Code Analysis++](https://www.youtube.com/watch?v=Ng8GAai5jLc)
     * C++ on Sea 2021, June: [Code Analysis++ (half-day workshop, no recording)](https://cpponsea.uk/2021/schedule/)
     * C++Now Online 2021, May: [Surveying the community – what could possibly go wrong (Lightning talk, EN)](https://www.youtube.com/watch?v=Hg1gIxRr4eI)
     * C++Now Online 2021, May: [Code Analysis++ (extended version, EN)](https://www.youtube.com/watch?v=qUmG61aQyQE)
