@@ -4,7 +4,7 @@ __Note__ same topic might be presented differently when given several times at v
 
 * 2022
     * Meeting C++, November: Standard C++ Toolset
-    * NDC TechTown, September: [Code Analysis++](Code Analysis ++ - Anastasia Kazakova - NDC TechTown 2022)
+    * NDC TechTown, September: [Code Analysis++](https://www.youtube.com/watch?v=Icg248MNt2Q)
     * Highload++, May: Code Analysis++ (updated version, RU)
 * 2021
     * CppCon 2021, October: [Code Analysis++](https://www.youtube.com/watch?v=Ng8GAai5jLc)
