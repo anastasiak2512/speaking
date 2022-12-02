@@ -3,9 +3,9 @@
 __Note__ same topic might be presented differently when given several times at various conferences
 
 * 2022
-    * Highload++, May: Code Analysis++ (updated version, RU)
-    * NDC TechTown, September: Code Analysis++
     * Meeting C++, November: Standard C++ Toolset
+    * NDC TechTown, September: [Code Analysis++](Code Analysis ++ - Anastasia Kazakova - NDC TechTown 2022)
+    * Highload++, May: Code Analysis++ (updated version, RU)
 * 2021
     * CppCon 2021, October: [Code Analysis++](https://www.youtube.com/watch?v=Ng8GAai5jLc)
     * C++ on Sea 2021, June: [Code Analysis++ (half-day workshop, no recording)](https://cpponsea.uk/2021/schedule/)
