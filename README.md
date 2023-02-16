@@ -3,7 +3,7 @@
 __Note__ same topic might be presented differently when given several times at various conferences
 
 * 2022
-    * Meeting C++, November: Standard C++ Toolset
+    * Meeting C++, November: [Standard C++ Toolset](https://www.youtube.com/watch?v=-UW0Fc03th4)
     * NDC TechTown, September: [Code Analysis++](https://www.youtube.com/watch?v=Icg248MNt2Q)
     * Highload++, May: Code Analysis++ (updated version, RU)
 * 2021
