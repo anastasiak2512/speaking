@@ -2,11 +2,13 @@
 
 __Note__ same topic might be presented differently when given several times at various conferences
 
+* 2024
+    * ACCU, April: Surveying the Community: What Could Possibly Go Wrong?
 * 2023
     * Core C++, June: Standard C++ Toolset
     * C++ on Sea, June: [Standard C++ Toolset](https://www.youtube.com/watch?v=kLNCphYSggY)
-    * NDC TechTown, September: Standard C++ Toolset
-    * CppCon, September:  Surveying the Community: What Could Possibly Go Wrong?
+    * NDC TechTown, September: [Standard C++ Toolset](https://www.youtube.com/watch?v=9K0-l2aBpuo)
+    * CppCon, September:  [Surveying the Community: What Could Possibly Go Wrong?](https://www.youtube.com/watch?v=54LiB_OxPHE)
 * 2022
     * Meeting C++, November: [Standard C++ Toolset](https://www.youtube.com/watch?v=-UW0Fc03th4)
     * NDC TechTown, September: [Code Analysis++](https://www.youtube.com/watch?v=Icg248MNt2Q)
