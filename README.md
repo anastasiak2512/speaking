@@ -4,6 +4,7 @@ __Note__ same topic might be presented differently when given several times at v
 
 * 2024
     * ACCU, April: Surveying the Community: What Could Possibly Go Wrong?
+    * C++Now, April/May: C++ Painkillers: The Evolution of C++ Toolability
 * 2023
     * Core C++, June: Standard C++ Toolset
     * C++ on Sea, June: [Standard C++ Toolset](https://www.youtube.com/watch?v=kLNCphYSggY)
