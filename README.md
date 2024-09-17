@@ -6,6 +6,7 @@ __Note__ same topic might be presented differently when given several times at v
     * ACCU, April: Surveying the Community: What Could Possibly Go Wrong?
     * C++Now, April/May: [C++ Painkillers: The Evolution of C++ Toolability](https://www.youtube.com/watch?v=sxWe9KzYQSI)
     * NDC TechTown, September: How To Address 7 Major C++ Pain Points with Tools
+    * Spotlight, October 30, TBD
 * 2023
     * Core C++, June: Standard C++ Toolset
     * C++ on Sea, June: [Standard C++ Toolset](https://www.youtube.com/watch?v=kLNCphYSggY)
