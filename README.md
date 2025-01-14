@@ -3,9 +3,9 @@
 __Note__ same topic might be presented differently when given several times at various conferences
 
 * 2024
-    * ACCU, April: Surveying the Community: What Could Possibly Go Wrong?
+    * ACCU, April: [Surveying the Community: What Could Possibly Go Wrong?](https://www.youtube.com/watch?v=9Rn5UOWIeQA)
     * C++Now, April/May: [C++ Painkillers: The Evolution of C++ Toolability](https://www.youtube.com/watch?v=sxWe9KzYQSI)
-    * NDC TechTown, September: How To Address 7 Major C++ Pain Points with Tools
+    * NDC TechTown, September: [How To Address 7 Major C++ Pain Points with Tools](https://www.youtube.com/watch?v=U3I3eaRKDBk)
     * Spotlight, October 30, How to Build Trust and Authority via Thought Leadership and Data
     * MUC++ meetup, December 20, C++ in the Age of AI: Should I now quit my developer job?
 * 2023
