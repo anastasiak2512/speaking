@@ -1,0 +1,5 @@
+# The Next Coding Horizon: Proactive LLMs for Enhanced Productivity
+
+Programming languages and developer tools have consistently enhanced software development workflows. Now, Large Language Models (LLMs) are significantly changing the landscape, augmenting traditional tools and creating new possibilities. A recent survey shows that 69% of developers have tried, and 49% regularly use, ChatGPT for coding and other development-related activities —indicating a significant shift in how we approach software development. The question is no longer whether to use these AI-powered tools, but rather how to understand and harness their long-term impact.
+
+This talk explores the practical application of LLMs in software development, showcasing both successful and unsuccessful use cases to highlight key lessons learned. We'll examine effective strategies for leveraging LLMs to meet specific developer needs, focusing on avoiding common pitfalls. Finally, we'll envision a future where AI-powered development environments act as proactive partners, enhancing developer productivity and efficiency. 
